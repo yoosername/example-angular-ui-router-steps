@@ -1,0 +1,11 @@
+{
+  "name": "demo-account-page-with-steps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --content-base app --hot"
+  },
+  "author": "",
+  "license": "MIT"
+}
